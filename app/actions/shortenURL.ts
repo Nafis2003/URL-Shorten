@@ -1,3 +1,4 @@
+"use server"
 export async function shortenUrl(url: string) {
   try {
     const formattedUrl = url.startsWith("http") ? url : `https://${url}`;
