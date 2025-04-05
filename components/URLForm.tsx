@@ -36,7 +36,7 @@ export default function URLForm() {
   };
 
   return (
-    <Card className="w-full max-w-md sm:mx-auto shadow-md">
+    <Card className="w-full max-w-md sm:mx-auto shadow-md shadow-gray-50">
       <CardHeader>
         <CardTitle className="text-center flex items-center justify-center gap-2">
           <LinkIcon className="h-6 w-6 text-blue-500" />

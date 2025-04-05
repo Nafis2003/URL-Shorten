@@ -12,7 +12,7 @@ export default function Footer() {
         className="text-center text-sm text-muted-foreground hover:text-foreground"
       >
         <span>
-          Created by <span className="underline text-blue-400">Nafis Sadiq</span>
+          Created by <span className="underline text-blue-500">Nafis Sadiq</span>
         </span>
       </Link>
     </footer>

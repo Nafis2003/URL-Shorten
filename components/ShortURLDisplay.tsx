@@ -23,7 +23,7 @@ export default function ShortUrlDisplay({ shortUrl }: ShortUrlDisplayProps) {
   return (
     <div className="mt-6 p-4 border rounded-lg bg-muted/50">
       <div className="flex justify-between items-center">
-        <Label className="text-sm">Your shortened URL</Label>
+        <Label className="text-sm">Short URL</Label>
         <Button
           variant="outline"
           size="sm"
